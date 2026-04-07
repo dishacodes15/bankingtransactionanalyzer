@@ -1,4 +1,4 @@
-# 💳 Banking Transaction Analyzer (Java Swing)
+# 💳 Banking Transaction Analyzer 
 
 A simple Java Swing application to manage and analyze banking transactions.
 
